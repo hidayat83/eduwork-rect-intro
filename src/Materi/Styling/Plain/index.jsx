@@ -6,7 +6,7 @@ export default class Plain extends React.Component{
 		return(
 			<div>
 			<button className="btn btn-info">Go Eduwork</button>
-			h2
+			
 			</div>
 		)
 	}
