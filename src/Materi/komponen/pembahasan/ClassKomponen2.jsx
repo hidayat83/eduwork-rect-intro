@@ -6,6 +6,7 @@ class  ClassKomponen2  extends React.Component{
 			<div>
 				<h1>Hallo ini komponen ke 2 saya</h1>
 				<h2>atas nama {this.props.nama}</h2>
+				<h3>Komponen terbaru </h3>
 			</div>
 		)
 	}
