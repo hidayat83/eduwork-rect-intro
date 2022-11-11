@@ -1,13 +1,15 @@
 import React from "react";
-import './index.css'
+import Sass from "../../sass";
+import Bootstrap from "../Bootstrap";
+import Inline from "../Inline";
+import Module from "../Module";
 
-export default class Plain extends React.Component{
+export default class Styling extends React.Component{
 	render(){
 		return(
 			<div>
-			<button className="btn btn-info">Go Eduwork</button>
-			
-			</div>
+				<Bootstrap />
+					</div>
 		)
 	}
 }

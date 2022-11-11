@@ -1,4 +1,4 @@
-import Styling from "./Materi/Styling";
+import Styling from "./Materi/Styling/Plain";
 
 function App() {
   return (
